@@ -23,7 +23,7 @@ class Main extends PluginBase implements Listener {
 
     }
 
-    // Ejemplo de evento: Cuando un jugador se une al servidor.
+    // Ejemplo de evento: Cuando un jugador se une al servido.
 
     public function onPlayerJoin(PlayerJoinEvent $event) {
 
