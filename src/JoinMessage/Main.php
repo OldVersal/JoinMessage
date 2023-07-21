@@ -19,7 +19,7 @@ class Main extends PluginBase implements Listener {
 
     public function onDisable(): void  {
 
-        $this->getLogger()->info("JoinMessage ha sido deshabilitado");
+        $this->getLogger()->info("JoinMessage ha sido deshabilitado!");
 
     }
 
