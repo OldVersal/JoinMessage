@@ -1,0 +1,5 @@
+name: JoinMessage
+version: 1.0.0
+author: Script
+api: 5.0.0
+main: JoinMessage\Main
