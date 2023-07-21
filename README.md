@@ -1,0 +1,2 @@
+# JoinMessage
+Basic JoinMessage.
